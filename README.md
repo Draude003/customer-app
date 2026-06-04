@@ -25,7 +25,7 @@ Make sure you have the following installed before running the application:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/customer-app.git
+git clone https://github.com/Draude003/customer-app.git
 cd customer-app
 ```
 
